@@ -6,6 +6,7 @@ correctamente. Tenga en cuenta datos faltantes y duplicados.
 """
 import pandas as pd
 
+#codigo
 
 def clean_data():
    

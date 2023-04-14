@@ -6,7 +6,6 @@ Realice la limpieza del dataframe. Los tests evaluan si la limpieza fue realizad
 correctamente. Tenga en cuenta datos faltantes y duplicados.
 
 """
-
 import pandas as pd
 import numpy as np
 
